@@ -6,8 +6,14 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group47
 
+Can Okulmuş - 2400265
+
+Ahmet Buğra Karabölük - 2448520
+
+
+Repository Link: https://github.com/canokulmus/covertovert
 
 .. toctree::
    :maxdepth: 2
