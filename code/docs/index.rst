@@ -6,14 +6,12 @@
 Basic ICMP Documentation
 ========================
 
+Can Okulmuş
+
+Ahmet Buğra Karabölük
+
 Group47
 
-Can Okulmuş - 2400265
-
-Ahmet Buğra Karabölük - 2448520
-
-
-Repository Link: https://github.com/canokulmus/covertovert
 
 .. toctree::
    :maxdepth: 2
